@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T12:47:40.814Z" agent="5.0 (Windows)" etag="jDkkQffqm6FTWa3VpLUH" version="14.9.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-05T12:50:03.375Z" agent="5.0 (Windows)" etag="raUgj6r-8MWW-q0Gt3hN" version="14.9.4" type="github" pages="3">
   <diagram id="ihwpi3PG6v21Ac_dPdbL" name="Parent LCT Diagram">
     <mxGraphModel dx="910" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="TboBpPdybJenlptqnbeH-5" value="Sign-in" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="160" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TboBpPdybJenlptqnbeH-6" value="Real Time Data" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TboBpPdybJenlptqnbeH-6" value="Real Time Data" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="700" y="165" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TboBpPdybJenlptqnbeH-7" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="TboBpPdybJenlptqnbeH-24" edge="1">
@@ -169,7 +169,7 @@
           <mxGeometry x="730" y="290" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OiKKK8v9pq7ARO2hMmkM-0" value="Querying" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="Jf-QFF6wfLOz15JM0meg-1">
-          <mxGeometry x="600" y="240" width="40" height="20" as="geometry" />
+          <mxGeometry x="560" y="240" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="psIVYtCFmDgO5q7gNuKh-0" value="Data Collection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jf-QFF6wfLOz15JM0meg-1">
           <mxGeometry x="630" y="300" width="100" height="20" as="geometry" />
