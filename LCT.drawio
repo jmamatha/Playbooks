@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T08:27:37.915Z" agent="5.0 (Windows)" etag="pIfsm58sqEzWad81iP5r" version="14.9.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-08-09T08:28:00.875Z" agent="5.0 (Windows)" etag="JitFa16ajoZUoeraJerb" version="14.9.5" type="github" pages="4">
   <diagram id="ihwpi3PG6v21Ac_dPdbL" name="Parent LCT Diagram">
     <mxGraphModel dx="910" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -387,9 +387,6 @@
             <mxPoint x="450" y="340" as="sourcePoint" />
             <mxPoint x="420" y="440" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4PMVPPcJ3UBoGSDdyD04-35" value="Azure IaaS &amp;amp; Paas" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4PMVPPcJ3UBoGSDdyD04-1">
-          <mxGeometry x="330" y="60" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4PMVPPcJ3UBoGSDdyD04-36" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4PMVPPcJ3UBoGSDdyD04-1" target="4PMVPPcJ3UBoGSDdyD04-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
